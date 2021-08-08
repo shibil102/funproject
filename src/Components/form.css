@@ -1,0 +1,17 @@
+.form {
+  height: 200px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+form {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.form__controls {
+  margin-bottom: 2em;
+}

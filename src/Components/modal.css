@@ -8,7 +8,7 @@
 .modal__card {
   position: absolute;
   border-radius: 10px;
-  height: 350px;
+  height: 450px;
   width: 300px;
   background-color: white;
   z-index: 10;
@@ -24,7 +24,7 @@
 .text {
   font-size: 1.5rem;
   font-weight: 700;
-  padding: 0 0 45px 0;
+  padding: 0 0 25px 0;
 }
 .meme {
   display: flex;
@@ -35,4 +35,8 @@
   margin-top: 20px;
   height: 150px;
   width: 200px;
+}
+.para {
+  text-align: center;
+  padding: 0 0 25px 0;
 }

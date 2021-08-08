@@ -12,7 +12,10 @@ const Modal = (props) => {
           <img className="gif" src={gif} alt="gif" />
         </div>
         <div className="title">
-          <div className="text">പറ്റിച്ചേ</div>
+          <div className="text">പറ്റിച്ചേ 😂🤣</div>
+          <div className="para">
+            ഞ്ഞിങ്ങളുടെ ഡാറ്റാ ഞനങ്ങളുടെ കഴ്കളിൽ സുരക്ഷിതമാണ്
+          </div>
           <Button onClick={props.onClose} variant="outlined" color="primary">
             Thank you🙏
           </Button>
